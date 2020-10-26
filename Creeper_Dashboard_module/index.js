@@ -1,2 +1,6 @@
-//idk
-//i guess nothing here yet
+
+const dash = require('./core/dashboardManager')
+
+module.exports = {
+    dash
+}
